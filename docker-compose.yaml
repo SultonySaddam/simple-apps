@@ -10,3 +10,4 @@ services:
     #tambah volumes
 volumes:
   myapp:
+    external: true
